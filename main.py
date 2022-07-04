@@ -14,7 +14,6 @@ def automl():
   output = 's3://sagemaker-us-east-1-082380823452/sagemaker/autopilot/output'
   
   #Outcome: Automl predictions
-
   
 if __name__ == "__main__":
     automl()
