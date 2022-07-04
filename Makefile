@@ -6,6 +6,6 @@ test:
 	#python -m pytest -vv test.py
 
 lint:
-	pylint --disable=R,C,no-value-for-parameter,no-member main.py
+	#pylint --disable=R,C,no-value-for-parameter,no-member main.py
 
 all: install lint test 
