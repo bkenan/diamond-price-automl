@@ -13,7 +13,7 @@ def automl():
   #print(uri): "s3://sagemaker-us-east-1-082380823452/sagemaker/autopilot/input/./data/diamonds.csv"
   output = 's3://sagemaker-us-east-1-082380823452/sagemaker/autopilot/output'
   
-  #OutcomeL: Automl predictions
+  #Outcome: Automl predictions
 
   
 if __name__ == "__main__":
