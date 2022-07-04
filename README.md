@@ -4,7 +4,7 @@
 
 This project used [Diamond Price Prediction dataset from Kaggle](https://www.kaggle.com/datasets/shubhankitsirvaiya06/diamond-price-prediction) to estimate the diamond prices based on the features available. 
 
-## AutoML benefits
+## AutoML
 
 AutoML automates some steps of the ML workflow so that using machine learning methods in standard and simple tasks becomes not time consuming. In other words, it increases the efficiency for solving the data problems. AutoML is particularly helpful for baseline model selection in a way that it helps with the task automation process. Another advantage of AutoML can be noticed in the models’ hyperparameter tuning and optimisation problems where it can automate the routine process. Overall, AutoML is just another tool available for data scientists, so that they can use it to achieve increased productivity and speed, and then, focus on more complicated problems. Hence this tool will potentially increase the value of data scientists’ contribution in solving the business problems. 
 
