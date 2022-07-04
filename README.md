@@ -17,3 +17,7 @@ Amazon SageMaker Autopilot is a useful AutoML tool. It accepts a tabular dataset
 ![1](https://user-images.githubusercontent.com/53462948/177208350-e479a8cc-10bf-4ec6-aeb5-48c26011504b.png)
 
 ![2](https://user-images.githubusercontent.com/53462948/177208355-5861e366-68c7-4628-a61b-b9eec89ad3d4.png)
+
+### [EDA](https://github.com/bkenan/diamond-price-automl/blob/a4846b45067ff9f5b94536e655d2aa5d30925cd0/Notebooks/SageMakerAutopilotDataExplorationNotebook.ipynb)
+
+### [Modeling process](https://github.com/bkenan/diamond-price-automl/blob/a4846b45067ff9f5b94536e655d2aa5d30925cd0/Notebooks/SageMakerAutopilotCandidateDefinitionNotebook.ipynb)
