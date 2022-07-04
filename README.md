@@ -2,7 +2,7 @@
 
 # Diamond price predictions by AutoML
 
-This project used [Diamond Price Prediction dataset from Kaggle]([https://www.kaggle.com/datasets/uciml/autompg-dataset](https://www.kaggle.com/datasets/shubhankitsirvaiya06/diamond-price-prediction)) to estimate the diamond prices based on the features available. 
+This project used [Diamond Price Prediction dataset from Kaggle](https://www.kaggle.com/datasets/shubhankitsirvaiya06/diamond-price-prediction) to estimate the diamond prices based on the features available. 
 
 ## AutoML benefit
 
